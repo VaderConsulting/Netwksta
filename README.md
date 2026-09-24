@@ -24,7 +24,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Netwksta`.
+Working copy from my Historical Dev folder `VB/Old/Netwksta`.
 Class copyright: (C)1997, Karl E. Peterson.
 
 ## License

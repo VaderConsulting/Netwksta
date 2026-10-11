@@ -29,4 +29,4 @@ Class copyright: (C)1997, Karl E. Peterson.
 
 ## License
 
-MIT (c) 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT (c) 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`.
